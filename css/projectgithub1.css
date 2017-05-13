@@ -1,5 +1,37 @@
-h1 { font-style: italic; 
+.div-header {
+     background-color:blue;
+    text-align;left;
+    height:20%;
     
-    
+}
 
+.div-logo {
+    
+    width:20%;
+    height:100%;
+    background-color:red;
+    float:left;
+} 
+
+.photo {
+     width:100%;
+    height:100%;
+}
+
+.div-body{
+    background-color:brown;
+    height:30%;
+} 
+
+.div-body1 {
+    background-color:yellow;
+    height:40%;
+    text-align:center;
+}
+
+.div-footer {
+    background-color:grey;
+    float;right;
+    height:10%;
+    text-align:center;
 }
