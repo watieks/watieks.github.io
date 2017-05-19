@@ -1,4 +1,28 @@
-.div-header {
+.
+
+.container-fluid col-xs-sm-md-12{
+    height: 20%;
+    background: lightgreen;
+}
+.col-xs-sm-md-3 {
+    height: 100%;
+    
+}
+
+.col-xs-sm-md-9 {
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+div-header {
     background-color:blue;
     text-align:center;
     height:20%;
