@@ -1,0 +1,133 @@
+body{
+    background-image:url('image/bgnew.jpg'); 
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#div-header{
+    height: 20%;
+    text-align: center;
+}
+#head{
+    font-style: italic;
+    font-size: 45px;
+    font-family: "Times New Roman", Georgia, Serif;
+    color: #FF480E;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+    font-size: 20px;
+} 
+#li{
+    display:inline;
+}
+
+#news{
+    height: 35%;
+}
+
+#new1{
+    height: 100%;
+
+}
+
+video{
+    width: 320px;
+    height:200px;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-left: 40px;
+}
+#news2{
+    height: 100%;
+    text-align: justify;
+}
+#p{
+    font-size: 15px;
+    font-weight: bold;
+    color: #FF4613;
+}
+
+#places{
+    height: 17%;
+    text-align: center; 
+}
+
+#photo{
+    font-size:25px;
+    font-weight: bold;
+    color: #FF480E;
+}
+
+
+
+#desk{
+    height:30%;
+    text-align: justify;
+}
+
+#sisip{
+    color: #FF480E;
+}
+
+#picdesk{
+    height: 70%;
+    overflow-x: scroll;
+    margin-left: 1px;
+}
+#mainpic{
+    height: 53%;
+    overflow-y: scroll;
+}
+
+.pic col-xs-2{
+    height:100%;
+    text-align: center;
+        
+}
+.page2{
+    height: 5px;
+    width: 5px;
+}
+
+#kolom{
+    height: 35%;
+    text-align: center;
+}
+
+.col-xs-3{
+    height: 100%;
+}
+.isi{
+    height: 100px;
+    width: 100px;
+}
+.klik{
+    font-family: "Times New Roman" georgia sans-serif;
+    font-size: 25px;
+    color: #FF480E;
+    font-weight: bold;
+}
+
+#footer{
+    height:5%;
+    background-color: #FF480E;
+    text-align: center;
+    color: white;
+}
+#footer1{
+    height: 5%;
+    background-color: #FF480E;
+    text-align: center;
+    color: white;
+}
+#footer3{
+    height:100%;
+    text-align: center;
+}
+.f1{
+    height:auto;
+    width:auto; 
+}
