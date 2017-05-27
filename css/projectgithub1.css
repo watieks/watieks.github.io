@@ -31,6 +31,17 @@ ul{
     height: 100%;
 
 }
+#tentang{
+    height: 70%;
+    color:#FF4613;
+    font-weight: bold;
+}
+.about{
+    text-align: center;
+    color: #FF480E;
+    font-size: 30px;
+    font-weight: bold;
+}
 
 video{
     width: 320px;
