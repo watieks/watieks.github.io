@@ -61,7 +61,9 @@ video{
     color: #FF480E;
 }
 
-
+#page3{
+    height:53%;
+}
 
 #desk{
     height:30%;
@@ -76,6 +78,10 @@ video{
     height: 70%;
     overflow-x: scroll;
     margin-left: 1px;
+}
+
+.img3{
+    height: 100%;
 }
 #mainpic{
     height: 53%;
