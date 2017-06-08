@@ -1,5 +1,5 @@
 body{
-    background-image:url('image/bgnew.jpg'); 
+    background-image:url('image/skylv.jpg'); 
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -19,8 +19,17 @@ ul{
     text-align: left;
     font-size: 20px;
 } 
-#li{
+.li{
     display:inline;
+    color: #FF480E;
+    font-weight: bold;
+}
+.li-atas{
+    color: #FF480E;
+}
+.li .li-atas:hover {
+    background-color: white;
+    color:#FF480E ;
 }
 
 #news{
@@ -128,6 +137,10 @@ video{
     font-weight: bold;
 }
 
+.col-xs-3 .klik:hover{
+    background-color: white;
+    color:#FF480E ;
+}
 #footer{
     height:5%;
     background-color: #FF480E;
@@ -147,4 +160,8 @@ video{
 .f1{
     height:auto;
     width:auto; 
+}
+#footer3 .f1:hover{
+    background-color: blue;
+    color:#FF480E;
 }
