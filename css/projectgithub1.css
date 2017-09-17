@@ -1,4 +1,4 @@
-body{
+#body{
     background-image:url('image/skylv.jpg'); 
     background-repeat: no-repeat;
     background-size:cover;
@@ -6,6 +6,8 @@ body{
 #div-header{
     height: 20%;
     text-align: center;
+     
+    
 }
 #head{
     font-style: italic;
