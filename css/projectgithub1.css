@@ -1,5 +1,5 @@
 #body{
-    background-image:url('image/skylv.jpg'); 
+    background-image:url(../image/skylv.jpg); 
     background-repeat: no-repeat;
     background-size:cover;
 }
